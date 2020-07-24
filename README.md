@@ -1,5 +1,5 @@
 **Instruction to run**
-- Run the project directly by cloning or downloading zip file
+- Run the project directly by cloning or importing through zip file
 
 **About**
 - sample app demonstrating Android Multicast DNS Resolution
