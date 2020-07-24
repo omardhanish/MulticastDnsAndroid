@@ -3,4 +3,4 @@
 
 **About**
 - sample app demonstrating Android Multicast DNS Resolution
-- This project is written completely in Kotlin
+- This project is written completely in Kotlin and in viewmodel architecture
