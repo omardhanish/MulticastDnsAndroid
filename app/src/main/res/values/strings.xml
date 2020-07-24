@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimtchTask</string>
+    <string name="publish">Publish</string>
+    <string name="scan">Scan</string>
+</resources>
