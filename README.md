@@ -2,5 +2,5 @@
 - Run the project directly by cloning or downloading zip file
 
 **About**
-- sample app demonstratign Android Multicast DNS Resolution
+- sample app demonstrating Android Multicast DNS Resolution
 - This project is written completely in Kotlin
